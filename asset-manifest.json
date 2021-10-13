@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-unsplash-search/static/css/main.4d7ec86f.chunk.css",
-    "main.js": "/react-unsplash-search/static/js/main.d88253e6.chunk.js",
-    "main.js.map": "/react-unsplash-search/static/js/main.d88253e6.chunk.js.map",
+    "main.js": "/react-unsplash-search/static/js/main.fcc54916.chunk.js",
+    "main.js.map": "/react-unsplash-search/static/js/main.fcc54916.chunk.js.map",
     "runtime-main.js": "/react-unsplash-search/static/js/runtime-main.dbffe542.js",
     "runtime-main.js.map": "/react-unsplash-search/static/js/runtime-main.dbffe542.js.map",
     "static/js/2.7fa1299f.chunk.js": "/react-unsplash-search/static/js/2.7fa1299f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dbffe542.js",
     "static/js/2.7fa1299f.chunk.js",
     "static/css/main.4d7ec86f.chunk.css",
-    "static/js/main.d88253e6.chunk.js"
+    "static/js/main.fcc54916.chunk.js"
   ]
 }
